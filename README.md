@@ -14,7 +14,7 @@
 
 <h3 align="left"> Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojashkush&show_icons=true&locale=en&layout=compact" alt="ojashkush" /></p>
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ojashkush&show_icons=true&locale=en" alt="ojashkush" /></p>
+<p>&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojashkush&show_icons=true&locale=en" alt="ojashkush" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojashkush&" alt="ojashkush" /></p>
 
 <h3 align="left">Connect with me:</h3>
