@@ -1,4 +1,4 @@
-![image](Header.png)
+<div align="center"><a href="url"><img src="https://c.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif" width="350"></a></div>
 <h1 align="center">Hi 👋, I'm Ojash</h1>
 <h3 align="center">A passionate developer from India</h3>
 
