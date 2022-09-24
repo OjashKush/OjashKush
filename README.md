@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojashkush&label=Profile%20views&color=0e75b6&style=flat" alt="ojashkush" /> </p>
 <p align="left"> <a href="https://twitter.com/ojashkush" target="blank"><img src="https://img.shields.io/twitter/follow/ojashkush?logo=twitter&style=for-the-badge" alt="ojashkush" /></a> </p>
 
-- 🌱 Currently I'm learning Python.
+- 🌱 Currently I'm learning PSQL.
 - 🐧 Linux user.
 - 📫 How to reach me **ojashkush@gmail.com**
 - 😄 Pronouns: he/him
