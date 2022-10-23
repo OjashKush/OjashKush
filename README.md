@@ -15,7 +15,7 @@
     :house_with_garden: Currently based in India 🇮🇳<br>
     :school: CS/IT Student from IIIT Bhopal [2024]<br>
     :email:	ojashkush@gmail.com <br>
-    :pencil: CV: <a href="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">View Resume</a> <br>
+    :pencil: CV: <a href="https://drive.google.com/file/d/139r1maBXagmIR0vSUzlvV0W5-ga_BIxi/view?usp=drivesdk">View Resume</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/ojash-kushwaha-791770185">LinkedIn Profile</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/OjashKush?t=A2Wo_0zXv7c6780VYt4i9g&s=09">Twitter</a> <br>
     <br><br>
