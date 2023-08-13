@@ -15,7 +15,7 @@
     :house_with_garden: Currently based in India 🇮🇳<br>
     :school: CS/IT Student from IIIT Bhopal [2025]<br>
     :email:	ojashkush@gmail.com <br>
-    :pencil: CV: <a href="https://drive.google.com/file/d/139r1maBXagmIR0vSUzlvV0W5-ga_BIxi/view?usp=drivesdk">View Resume</a> <br>
+    :pencil: CV: <a href="https://drive.google.com/file/d/1xQh66TKfMTMeplRbcNyXWlJ7mrqkGbqR/view?usp=sharing">View Resume</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/ojash-kushwaha-791770185">LinkedIn Profile</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/OjashKush?t=A2Wo_0zXv7c6780VYt4i9g&s=09">Twitter</a> <br>
     <br><br>
